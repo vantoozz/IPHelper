@@ -1,0 +1,14 @@
+{
+    "name": "vantoozz/helper-ip",
+    "description": "IP Helper",
+    "keywords": ["ip", "helper"],
+    "authors": [
+        {
+            "name": "Ivan Nikitin",
+            "email": "vantoozz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "IPHelper": "src/" }
+    }
+}
